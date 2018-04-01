@@ -11,3 +11,16 @@ Saved
 *.xcodeproj
 *.xcworkspace
 *.uasset
+*.xlsx
+*.tps
+*.png
+*.ttf
+*.bin
+*.uplugin
+*.dll
+Content/StarterContent/Maps/StarterMap.umap
+*.bmp
+*.css
+*.html
+*.psd
+*.woff2
